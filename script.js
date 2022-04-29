@@ -1,9 +1,10 @@
+
 //to revert back to start
 /*
 let prizes = {
   sticker: 5;
   comicBook: 20:
-  pastyCandy: 25;
+  pastryCandy: 25;
   coffee: 35;
   funkoPop: 60;
   preroll: 70;
@@ -44,5 +45,4 @@ let tasks = {
   finishCurrentOrSmallProject: 150;
   finishNewProject: 300;
   finishWritingNovel: 500;
-}
-*/
+}*/

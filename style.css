@@ -9,11 +9,22 @@ body {
   background-size: 100%;
 }
 
-.container {
-  float: left;
+.containerone {
+  position: absolute;
   display: block;
   width: 125px;
   height:125px;
+  top: 100px;
+  left: 100px;
+}
+
+.containertwo {
+  position: absolute;
+  display: block;
+  width: 125px;
+  height:125px;
+  bottom: 100px;
+  right: 100px;
 }
 
 .center {
@@ -35,8 +46,7 @@ img {
   height: 125px;
 }
 
-.overlay {
-  float: left;
+.overlayone {
   display: block;
   position: absolute;
   border: 2px solid black;
@@ -48,7 +58,23 @@ img {
   background-color: #000;
 }
 
-.container:hover .overlay {
+.overlaytwo {
+  display: block;
+  position: absolute;
+  border: 2px solid black;
+  border-radius: 50%;
+  height: 125px;
+  width: 125px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #000;
+}
+
+.containerone:hover .overlayone{
+  opacity: 1;
+}
+
+.containertwo:hover .overlaytwo {
   opacity: 1;
 }
 
@@ -78,7 +104,7 @@ img {
   }
  
 h1 {
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 4.2rem;
@@ -89,6 +115,8 @@ h1 {
 }
   
 .glowcontainer {
+  position: fixed;
+  left: 280px;
   margin-top: 20vh;
 }
 
