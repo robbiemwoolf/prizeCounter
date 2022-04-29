@@ -9,15 +9,60 @@ body {
   background-size: 100%;
 }
 
+.container {
+  float: left;
+  display: block;
+  width: 125px;
+  height:125px;
+}
+
+.center {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  right: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+}
+
+
 img {
   float: left;
+  display: block;
   border: 2px solid black;
   border-radius: 50%;
   width: 125px;
   height: 125px;
 }
 
+.overlay {
+  float: left;
+  display: block;
+  position: absolute;
+  border: 2px solid black;
+  border-radius: 50%;
+  height: 125px;
+  width: 125px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #000;
+}
 
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
 
 .neonText {
     color: #fff;
@@ -31,31 +76,19 @@ img {
       0 0 102px #0fa,
       0 0 151px #0fa;
   }
-
-
-/* Additional styling */
-  
-body {
-  font-size: 18px;
-  font-family: "Helvetica Neue", sans-serif;
-  background-color: #010a01;
-}  
-
+ 
 h1 {
   text-align: center;
   text-transform: uppercase;
   font-weight: 400;
-}
-  
-h1 {
-    font-size: 4.2rem;
+  font-size: 4.2rem;
 }
 
 .glow {
      animation: glow 1.5s infinite alternate;     
 }
   
-.container {
+.glowcontainer {
   margin-top: 20vh;
 }
 
