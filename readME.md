@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This application is meant to serve as motivation to practice healthy habits and further one's goals. We designated tasks to get points; these points can then be traded in for prizes. Similar to buying prizes with earned tickets at an arcade. My partner and I are also using this application to save money, because we are not allowed to buy another outside of these prizes. Adjusting tasks and prizes on a monthly basis will allow us to focus on what furthers our goals and focuses our attention on spending money on what we really want.
 
 How is this going to work? What functions will be in this application?
@@ -53,5 +54,17 @@ let tasks = {
 
 
 RECOGNITION/SOURCES
+Sites
+  https://imagecompressor.com/
+
 Images
     Yosep Sugiarto, cinnamonroll.jpg    https://unsplash.com/photos/1PEqqv4i2iM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    Jon Tyson, sticker.jpg   https://unsplash.com/photos/rW854PQU3ts?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    Erik Mclean, comicbook.jpg     https://unsplash.com/photos/5pTPknX_Gzw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    preroll.jpg    https://wcp2018.org/why-you-should-use-pre-roll-joints.html
+    Mikolaj, book.jpg    https://unsplash.com/photos/LV6wQnJfNRo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    Allef Vinicius, tattoo.jpg    https://unsplash.com/photos/hxNiXP498UI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    Plant For Persephone, edible.jpg    https://unsplash.com/photos/M5WX9Xr36N8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    Sharon McCutcheon, cash.jpg    https://unsplash.com/photos/8lnbXtxFGZw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    József Koller, boardgame.jpg    https://unsplash.com/photos/vrvKnqlPwzI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    Hitesh Dewasi, datenight.jpg    https://unsplash.com/photos/5JwBbnyZzfc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
