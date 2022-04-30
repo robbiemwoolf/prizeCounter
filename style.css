@@ -1,3 +1,19 @@
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: green;
+}
+
+.left {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+}
+
 body {
   display: flex;
   align-items: center;
@@ -27,7 +43,11 @@ img {
   height: 125px;
 }
 
+<<<<<<< HEAD
+.value {
+=======
 .text {
+>>>>>>> origin/main
   color: white;
   font-size: 20px;
   position: absolute;
@@ -39,6 +59,9 @@ img {
   text-align: center;
 }
 
+<<<<<<< HEAD
+.overlay {
+=======
 .containerone {
   position: absolute;
   display: block;
@@ -49,6 +72,7 @@ img {
 }
 
 .overlayone {
+>>>>>>> origin/main
   display: block;
   position: absolute;
   border: 2px solid black;
@@ -60,6 +84,10 @@ img {
   background-color: #000;
 }
 
+<<<<<<< HEAD
+.containerone {
+  position: absolute;
+=======
 .containerone:hover .overlayone{
   opacity: 1;
 }
@@ -74,19 +102,34 @@ img {
 }
 
 .overlaytwo {
+>>>>>>> origin/main
   display: block;
-  position: absolute;
-  border: 2px solid black;
-  border-radius: 50%;
-  height: 125px;
   width: 125px;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #000;
+  height:125px;
+  top: 100px;
+  left: 100px;
 }
 
+.containerone:hover .overlay {
+opacity: 1;
+}
+
+.containertwo {
+  position: absolute;
+  display: block;
+  width: 125px;
+  height:125px;
+  bottom: 100px;
+  right: 100px;
+}
+
+<<<<<<< HEAD
+.containertwo:hover .overlay {
+opacity: 1;
+=======
 .containertwo:hover .overlaytwo {
   opacity: 1;
+>>>>>>> origin/main
 }
 
 .containerthree {
@@ -98,6 +141,192 @@ top: 150px;
 right: 150px;
 }
 
+<<<<<<< HEAD
+.containerthree:hover .overlay {
+opacity: 1;
+}
+
+.containerfour {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+bottom: 75px;
+right: 340px;
+}
+
+.containerfour:hover .overlay {
+opacity: 1;
+}
+
+.containerfive {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+top: 20px;
+right: 75px;
+}
+
+.containerfive:hover .overlay {
+opacity: 1;
+}
+
+.containersix {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+top: 390px;
+right: 550px;
+}
+
+.containersix:hover .overlay {
+opacity: 1;
+}
+
+.containerseven {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+bottom: 150px;
+left: 150px;
+}
+
+.containerseven:hover .overlay{
+opacity: 1;
+}
+
+.containereight {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+top: 90px;
+left: 435px;
+}
+
+.containereight:hover .overlay {
+opacity: 1;
+}
+
+.containernine {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+top: 575px;
+right: 600px;
+}
+
+.containernine:hover .overlay {
+opacity: 1;
+}
+
+.containerten {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+bottom:275px;
+left: 35px;
+}
+
+.containerten:hover .overlay {
+opacity: 1;
+}
+
+.containereleven {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+bottom: 395px;
+right: 400px;
+}
+
+.containereleven:hover .overlay {
+opacity: 1;
+}
+
+.containertwelve {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+bottom: 575px;
+right: 565px;
+}
+
+.containertwelve:hover .overlay {
+opacity: 1;
+}
+
+.containerthirteen {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+top: 350px;
+right: 283px;
+}
+
+.containerthirteen:hover .overlay {
+opacity: 1;
+}
+
+.containerfourteen {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+top: 495px;
+right: 765px;
+}
+
+.containerfourteen:hover .overlay {
+opacity: 1;
+}
+
+.containerfifteen {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+bottom: 44px;
+left: 313px;
+}
+
+.containerfifteen:hover .overlay {
+opacity: 1;
+}
+
+.containersixteen {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+top: 215px;
+left: 563px;
+}
+
+.containersixteen:hover .overlay {
+opacity: 1;
+}
+
+.containerseventeen {
+position: absolute;
+display: block;
+width: 125px;
+height:125px;
+top: 300px;
+right: 700px;
+}
+
+.containerseventeen:hover .overlay {
+opacity: 1;
+=======
 .overlaythree {
 display: block;
 position: absolute;
@@ -108,6 +337,7 @@ width: 125px;
 opacity: 0;
 transition: .5s ease;
 background-color: #000;
+>>>>>>> origin/main
 }
 
 .containerthree:hover .overlaythree {
