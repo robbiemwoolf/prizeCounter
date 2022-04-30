@@ -56,7 +56,6 @@ img {
 }
 
 .overlay {
-  origin/main
   display: block;
   position: absolute;
   border: 2px solid black;
