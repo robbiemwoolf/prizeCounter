@@ -43,11 +43,7 @@ img {
   height: 125px;
 }
 
-<<<<<<< HEAD
 .value {
-=======
-.text {
->>>>>>> origin/main
   color: white;
   font-size: 20px;
   position: absolute;
@@ -59,20 +55,8 @@ img {
   text-align: center;
 }
 
-<<<<<<< HEAD
 .overlay {
-=======
-.containerone {
-  position: absolute;
-  display: block;
-  width: 125px;
-  height:125px;
-  top: 100px;
-  left: 100px;
-}
-
-.overlayone {
->>>>>>> origin/main
+  origin/main
   display: block;
   position: absolute;
   border: 2px solid black;
@@ -84,25 +68,8 @@ img {
   background-color: #000;
 }
 
-<<<<<<< HEAD
 .containerone {
   position: absolute;
-=======
-.containerone:hover .overlayone{
-  opacity: 1;
-}
-
-.containertwo {
-  position: absolute;
-  display: block;
-  width: 125px;
-  height:125px;
-  bottom: 100px;
-  right: 100px;
-}
-
-.overlaytwo {
->>>>>>> origin/main
   display: block;
   width: 125px;
   height:125px;
@@ -110,8 +77,8 @@ img {
   left: 100px;
 }
 
-.containerone:hover .overlay {
-opacity: 1;
+.containerone:hover .overlay{
+  opacity: 1;
 }
 
 .containertwo {
@@ -123,15 +90,10 @@ opacity: 1;
   right: 100px;
 }
 
-<<<<<<< HEAD
 .containertwo:hover .overlay {
 opacity: 1;
-=======
-.containertwo:hover .overlaytwo {
-  opacity: 1;
->>>>>>> origin/main
 }
-
+  
 .containerthree {
 position: absolute;
 display: block;
@@ -141,7 +103,6 @@ top: 150px;
 right: 150px;
 }
 
-<<<<<<< HEAD
 .containerthree:hover .overlay {
 opacity: 1;
 }
@@ -326,25 +287,7 @@ right: 700px;
 
 .containerseventeen:hover .overlay {
 opacity: 1;
-=======
-.overlaythree {
-display: block;
-position: absolute;
-border: 2px solid black;
-border-radius: 50%;
-height: 125px;
-width: 125px;
-opacity: 0;
-transition: .5s ease;
-background-color: #000;
->>>>>>> origin/main
 }
-
-.containerthree:hover .overlaythree {
-opacity: 1;
-}
-
-
 
 .neonText {
     color: #fff;
