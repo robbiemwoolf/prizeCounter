@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+##README
 This application is meant to serve as motivation to practice healthy habits and further one's goals. We designated tasks to get points; these points can then be traded in for prizes. Similar to buying prizes with earned tickets at an arcade. My partner and I are also using this application to save money, because we are not allowed to buy another outside of these prizes. Adjusting tasks and prizes on a monthly basis will allow us to focus on what furthers our goals and focuses our attention on spending money on what we really want.
 
 How is this going to work? What functions will be in this application?
