@@ -12,7 +12,7 @@ We have planned to adjust tasks and prizes on a monthly basis to stay engaged. T
 
 ### Design Plan 
 
-![Mockup Design for Prize Counter Application](https://github.com/robbiemwoolf/prizeCounter/blob/main/docs/images/designmockup-min.jpg?raw=true)
+![Mockup Design for Prize Counter Application](https://github.com/robbiemwoolf/prizeCounter/blob/main/docs/images/designmockup-min.png?raw=true)
 
 * It should have an inviting look that inspires you to work hard to earn prizes.
 * Prizes will be display in circle (later iteration is to have different sized circles based on prize tiers), when you hover over the prize image it will fade in a black background with white text (prize ticket cost).
