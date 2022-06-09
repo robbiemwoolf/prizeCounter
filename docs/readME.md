@@ -11,6 +11,9 @@ Some of the prizes are things that we regularly spend money on. In effort to sav
 We have planned to adjust tasks and prizes on a monthly basis to stay engaged. This allows us to focus on what furthers our goals and focuses our attention on spending money on what we really want.
 
 ### Design Plan 
+
+![Mockup Design for Prize Counter Application](https://github.com/robbiemwoolf/prizeCounter/blob/main/docs/images/designmockup-min.jpg?raw=true)
+
 * It should have an inviting look that inspires you to work hard to earn prizes.
 * Prizes will be display in circle (later iteration is to have different sized circles based on prize tiers), when you hover over the prize image it will fade in a black background with white text (prize ticket cost).
 * In the uper left, there will be a drop-down list with the task on corresponding ticket value. 
