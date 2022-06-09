@@ -32,3 +32,4 @@ We have planned to adjust tasks and prizes on a monthly basis to stay engaged. T
     * Sharon McCutcheon: https://unsplash.com/photos/8lnbXtxFGZw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
     * József Koller: https://unsplash.com/photos/vrvKnqlPwzI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
     * Hitesh Dewasi: https://unsplash.com/photos/5JwBbnyZzfc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+    * Annie Spratt: https://unsplash.com/photos/ZSv-C3tCR0E?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink 
